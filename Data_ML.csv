@@ -1,0 +1,6 @@
+"","Dataset Name","Brief description","Preprocessing","Instances","Format","Default Task","Created (updated)","Reference","Creator"
+"1","Poker Hand Dataset","5 card hands from a standard 52 card deck.","Attributes of each hand are given, including the Poker hands formed by the cards it contains.","1,025,010","Text","Regression, classification",2007,"[475]","R. Cattral"
+"2","Connect-4 Dataset","Contains all legal 8-ply positions in the game of connect-4 in which neither player has won yet, and in which the next move is not forced.","None.","67,557","Text","Classification",1995,"[476]","J. Tromp"
+"3","Chess (King-Rook vs. King) Dataset","Endgame Database for White King and Rook against Black King.","None.","28,056","Text","Classification",1994,"[477][478]","M. Bain et al."
+"4","Chess (King-Rook vs. King-Pawn) Dataset","King+Rook versus King+Pawn on a7.","None.","3196","Text","Classification",1989,"[479]","R. Holte"
+"5","Tic-Tac-Toe Endgame Dataset","Binary classification for win conditions in tic-tac-toe.","None.","958","Text","Classification",1991,"[480]","D. Aha"
